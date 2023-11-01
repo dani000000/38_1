@@ -30,7 +30,4 @@ def monthString(month_num):
     else:
         return "Invalid month number. Please enter a number between 1 and 12."
 
-# example usage:
-month_num = 1
-month_name = monthString(month_num)
-print(month_name)  # this will print "January"
+
